@@ -1,5 +1,8 @@
-Machine_Learning_Project_KeyloggerDetection
+# Detect keylogger using Machine Learning 
+\section{Dataset and Code Availability}
 
-OUTPUT 
+The dataset used in this study is publicly available on Kaggle at the following link:  
+\url{https://www.kaggle.com/datasets/subhajournal/keylogger-detection}  
 
-![image](https://github.com/hxrarkey/detecting-keyloggers-/assets/106763108/b25770d3-eec4-4868-b216-406e3e951313)
+The implementation code for this work can be found in the Jupyter Notebook file:  
+\texttt{keylogger\_detection.ipynb}  
